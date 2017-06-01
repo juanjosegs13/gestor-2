@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.example.pgbuild"
+        versionCode="10" 
+        version   = "1.0.0">
+
+    <name>Gestor de Archivos</name>
+
+    <description>
+        Gestor de Archivos
+    </description>
+
+    <author href="http://phonegap.com/blog/" email="danielito@hotmail.com">
+        Juan Jose
+    </author>
+    <icon src="gestor/pagina/images/gt_favicon.png" />
+    <gap:splash src="gestor/pagina/images/gt_favicon.png" />
+</widget>
